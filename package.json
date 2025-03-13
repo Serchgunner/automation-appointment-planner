@@ -1,6 +1,6 @@
 {
   "name": "pom",
-
+  "type": "module",
   "version": "0.0.1",
   "description": "pom with wdio",
   "private":"true",
