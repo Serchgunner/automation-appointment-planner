@@ -1,3 +1,4 @@
+
 export class ListHeaderComponent {
   get rootEl(){
     return $('body > app-root > app-main > div > main > app-doctors > div > div > div.specialization-types');
